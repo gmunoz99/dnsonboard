@@ -7,9 +7,13 @@
 | Walls Tag = Wall |  Empty Tag = Classroom | [Blender Hierarchy Template.pdf](https://driftnetsecurities.workplace.com/work/file_viewer/291983546260684/?surface=KNOWLEDGE_BASE). |
 
 ```
-
-my-app/
-├─ node_modules/
+School/Building(empty-hierarchy)/
+├─ Building 1/
+│  ├─ B1 Floor 1(empty-hierarchy)
+│  ├─ ├─ Floor 1 Rooms
+│  ├─ ├─ ├─ Rm 101(empty-hierarchy)
+│  ├─ ├─ ├─ ├─ Door(mesh)
+│  ├─ ├─ ├─ ├─ Rm 101.001 Empty(empty)
 ├─ public/
 │  ├─ favicon.ico
 │  ├─ index.html
@@ -20,5 +24,4 @@ my-app/
 ├─ .gitignore
 ├─ package.json
 ├─ README.md
-
 ```
