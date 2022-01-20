@@ -14,14 +14,66 @@ School/Building(empty-hierarchy)/
 │  ├─ ├─ ├─ Rm 101(empty-hierarchy)
 │  ├─ ├─ ├─ ├─ Door(mesh)
 │  ├─ ├─ ├─ ├─ Rm 101.001 Empty(empty)
-├─ public/
-│  ├─ favicon.ico
-│  ├─ index.html
-│  ├─ robots.txt
-├─ src/
-│  ├─ index.css
-│  ├─ index.js
-├─ .gitignore
-├─ package.json
-├─ README.md
+│  ├─ ├─ ├─ Rm 102(empty-hierarchy)
+│  ├─ ├─ ├─ ├─ Door.001(mesh)
+│  ├─ ├─ ├─ ├─ Rm 102 Empty(empty)
+│  ├─ ├─ ├─ ├─ Rm 102 Storage (empty-hierarchy)
+│  ├─ ├─ ├─ ├─ ├─ Rm 102 Storage Empty(empty)
+│  ├─ ├─ ├─ ├─ ├─ Door Storage 102(mesh)
+│  ├─ ├─ ├─ ├─ Rm 102 Props (empty-hierarchy)
+│  ├─ ├─ ├─ ├─ ├─ Desk.001(mesh)
+│  ├─ ├─ ├─ ├─ ├─ Desk.002(mesh)
+│  ├─ ├─ ├─ ├─ ├─ White Board(mesh)
+│  ├─ ├─ ├─ ├─ ├─ Teacher Desk(mesh)
+│  ├─ ├─ ├─ Rm Main Gym (empty-hierarchy)
+│  ├─ ├─ ├─ ├─ Door.002(mesh)
+│  ├─ ├─ ├─ ├─ Rm Main Gym Empty(Empty)
+│  ├─ ├─ ├─ ├─ Rm Main Gym Storage (empty-hierarchy)
+│  ├─ ├─ ├─ ├─ ├─ Rm Main Gym Storage Empty(empty)
+│  ├─ ├─ ├─ ├─ ├─ Door.003(mesh)
+│  ├─ ├─ ├─ ├─ Rm Main Gym Props(empty-hierarchy)
+│  ├─ ├─ ├─ ├─ ├─ Basketball Hoop(mesh)
+│  ├─ ├─ ├─ ├─ ├─ Bleachers(mesh)
+│  ├─ ├─ ├─ ├─ ├─ Water Fountain(mesh)
+│  ├─ ├─ ├─ Rm 1 Entrances(empty-hierarchy)
+│  ├─ ├─ ├─ ├─ Rm 1 Entrance Empty(empty)
+│  ├─ ├─ ├─ ├─ Door.004(mesh)
+│  ├─ ├─ ├─ Rm 2 Entrances(empty-hierarchy)
+│  ├─ ├─ ├─ ├─ Rm 2 Entrance Empty(empty)
+│  ├─ ├─ ├─ ├─ Door.005(mesh)
+│  ├─ ├─ ├─ ├─ Rm 2 Entrance Empty(empty)
+│  ├─ ├─ ├─ Rm Stairwell 1(empty-hierarchy)
+│  ├─ ├─ ├─ ├─ Rm Stairwell 1.001(empty)
+│  ├─ ├─ ├─ ├─ Rm Stairwell 1 Stairs(mesh)
+│  ├─ ├─ ├─ ├─ Door.006 (mesh)
+│  ├─ ├─ B1 Floor 1 Structure (empty-hierarchy)
+│  ├─ ├─ ├─ Walls(mesh)
+│  ├─ ├─ ├─ Roof(mesh)
+│  ├─ ├─ ├─ Flooring(mesh)
+│  ├─ ├─ ├─ Stairs(mesh)
+│  ├─ ├─ B1 Floor 1 Hallways(empty-hierarchy)
+│  ├─ ├─ ├─ Hallway Empty 1(empty)
+│  ├─ ├─ ├─ Hallway Empty 2(empty)
+│  ├─ ├─ B1 Floor 1 windows(empty-hierarchy)
+│  ├─ ├─ ├─ Window(mesh)
+│  ├─ ├─ ├─ Window.001(mesh)
+│  ├─ ├─ ├─ Window.002(mesh)
+│  ├─ B1 Floor 1(empty-hierarchy)
+│  ├─ ├─ B1 Floor 2 Rooms (empty-hierarchy)
+|  ├─ ├─ ├─ Rm 201(empty-hierarchy)
+|  ├─ ├─ ├─ ├─ Door.007(mesh)
+|  ├─ ├─ ├─ ├─ Rm 201 Empty(empty)
+|  ├─ ├─ ├─ Rm 202(empty-hierarchy)
+|  ├─ ├─ ├─ ├─ Door.008(mesh)
+|  ├─ ├─ ├─ ├─ Rm 202 Empty(empty)
+│  ├─ ├─ B1 Floor 2 Walls/Roof/Flooring(empty-hierarchy)
+|  ├─ ├─ ├─ Walls(mesh)
+|  ├─ ├─ ├─ Roof(mesh)
+|  ├─ ├─ ├─ Flooring(mesh)
+│  ├─ ├─ B1 Floor 2 Hallway Empties(empty-hierarchy)
+|  ├─ ├─ ├─ Hallways 3(empty)
+|  ├─ ├─ ├─ Hallways 4(empty)
+
+
+
 ```
