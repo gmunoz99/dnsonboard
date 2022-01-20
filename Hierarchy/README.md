@@ -6,27 +6,19 @@
 | ----------- | ----------- | ----------- |
 | Walls Tag = Wall |  Empty Tag = Classroom | [Blender Hierarchy Template.pdf](https://driftnetsecurities.workplace.com/work/file_viewer/291983546260684/?surface=KNOWLEDGE_BASE). |
 
+```
 
+my-app/
+├─ node_modules/
+├─ public/
+│  ├─ favicon.ico
+│  ├─ index.html
+│  ├─ robots.txt
+├─ src/
+│  ├─ index.css
+│  ├─ index.js
+├─ .gitignore
+├─ package.json
+├─ README.md
 
-
-
-<!-- language: lang-none -->
-
-
-├── src
-│   ├── controller
-│   │   ├── **/*.css
-│   ├── views
-│   ├── model
-│   ├── index.js
-├── public
-│   ├── css
-│   │   ├── **/*.css
-│   ├── images
-│   ├── js
-│   ├── index.html
-├── dist (or build
-├── node_modules
-├── package.json
-├── package-lock.json
-└── .gitignore
+```
